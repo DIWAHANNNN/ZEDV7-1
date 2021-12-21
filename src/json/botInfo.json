@@ -7,7 +7,7 @@
   "linkApi": {
    "zacros": "NO"
   },
-  "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
+  "thumb": "https://www.linkpicture.com/q/ds_1.jpg",
   "footerText": "© ZED",
   "prefix": [
     ".",
@@ -20,8 +20,8 @@
   ],
   "ownername": "ZED",
   "unicode" : {
-  "head": "⬣",
-  "list": "⬡",
+  "head": "⦁",
+  "list": "┃",
   "body": "┃",
   "upper": "┏",
   "down": "┗",
@@ -31,19 +31,19 @@
   "wings": [ "𓆩 ", " 𓆪" ]
 },
   "response": {
-    "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
-    "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
-    "group": "*REJECTED!* | Perintah Ini Khusus Group",
-    "wait": "*WAIT!* | Mohon Tunggu Sebentar...",
-    "private": "*REJECTED!* | Perintah Ini Khusus Private",
-    "notUrl": "*REJECTED!* | Link Invalid",
-    "media": "*REJECTED!* | Pesan Harus Media",
-    "mentioned": "*REJECTED!* | Tag Orang",
-    "quoted": "*REJECTED!* | Tag Pesan",
-    "_media": "*REJECTED!* | Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
-    "Error": "*ERROR!* | Terjadi Kesalahan Saat Mengirim Media/Pesan",
-    "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
-    "botAdmin": "*REJECTED!* | Bot Harus Admin"
+    "owner": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐒 𝐙𝐄𝐃.",
+    "admin": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐀𝐃𝐌𝐈𝐍",
+    "group": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃",
+    "wait": "𝐖𝐀𝐈𝐓 ┃ 𝐈 𝐀𝐌 𝐅𝐈𝐍𝐃",
+    "private": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐁𝐎𝐓 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄",
+    "notUrl": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐔𝐑𝐋 𝐈𝐒 𝐖𝐑𝐎𝐍𝐆",
+    "media": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐈𝐓𝐒 𝐅𝐀𝐈𝐋",
+    "mentioned": "𝐑𝐃𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐓𝐀𝐆 𝐌𝐄𝐌𝐁𝐄𝐑",
+    "quoted": "𝐑𝐃𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐓𝐀𝐆 𝐌𝐄𝐌𝐁𝐄𝐑",
+    "_media": "𝐑𝐃𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 𝐒𝐎𝐌𝐄𝐓𝐈𝐍𝐆 𝐈𝐒 𝐖𝐑𝐎𝐍𝐆",
+    "Error": "𝐄𝐑𝐑𝐎𝐑 ┃ 🙁",
+    "fromMe": "𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 🙁",
+    "botAdmin": "*𝐑𝐄𝐉𝐄𝐂𝐓𝐄𝐃 ┃ 🙁"
   },
     "session":
   {"clientID":"Gs5MHZ6IXW6j1lJEfIS6Nw==","serverToken":"1@Kouxmi9ioxw2ShCWgRjlFkxP/8Hz5PquXssxf3kqzPdiuj9Bi7kzISwrPoZzk+ArTDAh6QG5fPOOWw==","clientToken":"0fHzWrfzVnmRBx4NsMUafvacDLQQXQuoK1/DAatiU4Y=","encKey":"X7tOFw2WUbo4Q5G+nOjhwBUflw9JG8vEFGn4aVyS79E=","macKey":"98nZXyymJSh4QT/o5rmV/USpDz2+OQ7WZXBWD2Tjlkk="}
