@@ -1,14 +1,14 @@
 {
-  "botname": "ZED BOT",
+  "botname": "KENTON",
   "ownerNumber": [
-    "94771323434"
+    "94786705379"
   ],
   "website": "NO",
   "linkApi": {
    "zacros": "NO"
   },
   "thumb": "https://www.linkpicture.com/q/ds_1.jpg",
-  "footerText": "© ZED",
+  "footerText": "© KENTON",
   "prefix": [
     ".",
     "!",
@@ -18,7 +18,7 @@
     "+",
     ","
   ],
-  "ownername": "ZED",
+  "ownername": "DIWAN",
   "unicode" : {
   "head": "⦁",
   "list": "┃",
